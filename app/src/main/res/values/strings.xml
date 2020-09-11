@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pluralsight LP2</string>
+    <string name="title_activity_leader_board">LeaderBoardActivity</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="leaderBoard">LEADERBOARD</string>
+    <string name="submit">Submit</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name">  First Name</string>
+    <string name="last_name">  Last Name</string>
+    <string name="project_on_github_link">Project on GitHub (Link)</string>
+    <string name="email_address">Email Address</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure">Are You Sure ?</string>
+    <string name="content">Content</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission Not Successful</string>
+</resources>
